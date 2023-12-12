@@ -1,0 +1,2 @@
+REM 打包并在本地环境进行测试（模块联邦连接的是本地环境）
+yarn buildLocalTest
