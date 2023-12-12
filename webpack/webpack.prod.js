@@ -14,9 +14,11 @@ module.exports = {
   /**应用自己的配置放在这里*/
   appConfig:{
     consumReactTsURL:'https://mfe-20231204-remote-react-ts.vercel.app',
+    consumNextjsTsURL:'https://mfe-20231204-remote-nextjs-ts.vercel.app',
     consumVueTsURL:'https://mfe-20231204-remote-vue-ts.vercel.app',
     consumVueJsURL:'https://mfe-20231204-remote-vue-js.vercel.app',
     consumReactTsURL_forLocalTest:'http://localhost:4402',
+    consumNextjsTsURL_forLocalTest:'http://localhost:7702',
     consumVueTsURL_forLocalTest:'http://localhost:5502',
     consumVueJsURL_forLocalTest:'http://localhost:6602',
   }
